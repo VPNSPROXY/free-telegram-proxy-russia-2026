@@ -1,11 +1,4 @@
-
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Бесплатные прокси для Telegram в России в 2026 году. Пять серверов, инструкция по подключению на ПК, Android и iPhone, ответы на частые вопросы.">
-  <title>Бесплатный прокси для Telegram — рабочий список на 2026 год</title>
+<title>Бесплатный прокси для Telegram — рабочий список на 2026 год</title>
   <style>
     body {
       max-width: 960px;
