@@ -46,35 +46,30 @@
           <td>hyper.sosproxy.space</td>
           <td>443</td>
           <td>74 мс</td>
-          <td class="success">🟢 По исходным данным</td>
         </tr>
         <tr>
           <td>2</td>
           <td>spb-ee.spiderservice.vip</td>
           <td>443</td>
           <td>7 мс</td>
-          <td class="success">🟢 По исходным данным</td>
         </tr>
         <tr>
           <td>3</td>
           <td>dns.dnsrender.info</td>
           <td>443</td>
           <td>106 мс</td>
-          <td>🟡 По исходным данным</td>
         </tr>
         <tr>
           <td>4</td>
           <td>amsterdam.geodns.info</td>
           <td>443</td>
           <td>117 мс</td>
-          <td>🟡 По исходным данным</td>
         </tr>
         <tr>
           <td>5</td>
           <td>echo.lite64.xyz</td>
           <td>443</td>
           <td>74 мс</td>
-          <td class="success">🟢 По исходным данным</td>
         </tr>
       </tbody>
     </table>
