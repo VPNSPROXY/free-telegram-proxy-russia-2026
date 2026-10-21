@@ -171,7 +171,7 @@
       рекламой и трекерами с помощью поддерживаемых функций сервиса.
     </p>
     <a class="vpn-link"
-       href="https://srt.vg/jxxig"
+       href="https://vk.cc/cZaSyj"
        target="_blank"
        rel="nofollow sponsored noopener">
       Подробнее об AdGuard VPN
@@ -187,7 +187,7 @@
       и политикой конфиденциальности.
     </p>
     <a class="vpn-link"
-       href="https://srt.vg/mnhaa"
+       href="https://vk.cc/d2badc"
        target="_blank"
        rel="nofollow sponsored noopener">
       Подробнее о ZoogVPN
